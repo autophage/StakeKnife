@@ -1,0 +1,12 @@
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\bin\Debug\netcoreapp3.1\StakeKnife.DomainActions.deps.json
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\bin\Debug\netcoreapp3.1\StakeKnife.DomainActions.dll
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\bin\Debug\netcoreapp3.1\StakeKnife.DomainActions.pdb
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\bin\Debug\netcoreapp3.1\StakeKnife.BackEnd.dll
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\bin\Debug\netcoreapp3.1\StakeKnife.BackEnd.pdb
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.csprojAssemblyReference.cache
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.AssemblyInfoInputs.cache
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.AssemblyInfo.cs
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.csproj.CoreCompileInputs.cache
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.csproj.CopyComplete
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.dll
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.DomainActions\obj\Debug\netcoreapp3.1\StakeKnife.DomainActions.pdb

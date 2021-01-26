@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StakeKnife.CommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "create address 1234 null hello washington 4444 asdf"
+    }
+  }
+}

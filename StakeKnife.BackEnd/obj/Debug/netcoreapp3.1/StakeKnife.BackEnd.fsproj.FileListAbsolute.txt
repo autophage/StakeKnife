@@ -1,0 +1,7 @@
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\bin\Debug\netcoreapp3.1\StakeKnife.BackEnd.deps.json
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\bin\Debug\netcoreapp3.1\StakeKnife.BackEnd.dll
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\bin\Debug\netcoreapp3.1\StakeKnife.BackEnd.pdb
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\obj\Debug\netcoreapp3.1\StakeKnife.BackEnd.AssemblyInfoInputs.cache
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\obj\Debug\netcoreapp3.1\StakeKnife.BackEnd.AssemblyInfo.fs
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\obj\Debug\netcoreapp3.1\StakeKnife.BackEnd.dll
+C:\Users\Eric Honour\source\repos\StakeKnife\StakeKnife.BackEnd\obj\Debug\netcoreapp3.1\StakeKnife.BackEnd.pdb
